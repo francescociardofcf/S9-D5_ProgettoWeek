@@ -5,7 +5,7 @@ const MovieGallery = ({sagaName}) => {
   const [movies, setMovies] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const API_KEY = "inserisci-la-tua-api-key";
+  const API_KEY = "4505e2c8";
 
   useEffect(() => {
     fetch(`https://www.omdbapi.com/?apikey=${API_KEY}&s=${sagaName}`)
