@@ -73,10 +73,10 @@
     ];
     "totalResults"; "17",
     "Response"; "True",
-}
+    
 
 {
-    "Search";[
+    "Search":[
         {
             "Title": "Resident Evil",
             "Year": "2002",
@@ -148,6 +148,6 @@
             "Poster": "https://m.media-amazon.com/images/M/MV5BYTRiNDI4NjUtNTMzMi00NThlLTgwOWItMjM2ZDgyYThmMzgyXkEyXkFqcGc@._V1_SX300.jpg"
         }
     ],
-    "totalResults"; "112",
-    "Response"; "True"
+    "totalResults": "112",
+    "Response": "True",
 }
